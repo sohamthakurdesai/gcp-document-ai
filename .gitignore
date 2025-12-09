@@ -16,3 +16,7 @@ output/*
 
 service-account-credentials/*
 !service-account-credentials/.gitkeep
+
+splits/*
+outputs/*
+merged/*
